@@ -1,6 +1,6 @@
 # File-renamer-bot
 Telegram renamer bot with useful future 😉
-# RENAMER_BOT_V3
+
 
 Telegram renamer bot
 
@@ -94,4 +94,4 @@ Deploy Your Own Bot ♥️ Star 🌟 Fork 🍴 & Deploy
 
 <a href="https://t.me/India"><img src=""></a>
 
-<a href="https://t.me/India"><img src="https://te.legra.ph/file/3a4fa577fff117bfac8d8.jpg">
+<a href="https://t.me/India"><img src="">
