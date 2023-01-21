@@ -76,22 +76,22 @@ Deploy Your Own Bot ♥️ Star 🌟 Fork 🍴 & Deploy
 
 ![Deploy](https://heroku.com/deploy?templatehttps://github.com/KATTATHIRSSUR/File-renamer-bot)
 
-# How To Use Admin Command 
+#  Checkout command
 
 <p align="center">
 
-    <img src="https://te.legra.ph/file/3a4fa577fff117bfac8d8.jpg">
+    <img src="">
 
 </p>
 
 <p align="center">
 
-    <img src="https://te.legra.ph/file/3a4fa577fff117bfac8d8.jpg">
+    <img src="">
 
 </p>
 
 # Suppot
 
-<a href="https://t.me/India"><img src="https://te.legra.ph/file/3a4fa577fff117bfac8d8.jpg"></a>
+<a href="https://t.me/India"><img src=""></a>
 
 <a href="https://t.me/India"><img src="https://te.legra.ph/file/3a4fa577fff117bfac8d8.jpg">
